@@ -1,0 +1,1 @@
+name:varchar(50),street:varchar(50),city:varchar(50),state:varchar(50),zip:float
